@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  AppStreetFlickerImageSearch
 //
-//  Created by akumar on 11/05/19.
+//  Created by Mohan Pandey on 11/05/19.
 //  Copyright © 2019 AppStreet. All rights reserved.
 //
 
